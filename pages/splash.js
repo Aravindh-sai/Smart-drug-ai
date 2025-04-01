@@ -23,7 +23,7 @@ export default function Splash() {
   return (
     <div className="container splash-container">
       <Image
-        src="/assets/logo.jpg" // Ensure logo.png is inside the public/assets folder
+        src="/assets/logo.png" // Ensure logo.png is inside the public/assets folder
         alt="App Logo"
         width={150} // Adjust width as needed
         height={150} // Adjust height as needed
